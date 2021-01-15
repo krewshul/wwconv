@@ -33,4 +33,4 @@ cd scripts
 
 watch -n 300 -x bash update.sh
 
-the app will run at your ip add of the machine at port 8888
+
